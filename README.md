@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! 👋
+
+My name is Steven, Steve, or Teeb. 🪿
+
+I'm a former web designer, currently learning JavaScript to become a developer. 
+
+#### Top 10
+
+🐠 🥾 📚 🐙 🎶 🐈 🕹️ 🕷️ 🌈 🌳   
+
 
 <!--
 **stevengranter/stevengranter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
