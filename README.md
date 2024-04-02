@@ -4,7 +4,7 @@ My name is Steven, Steve, or Teeb. 🪿
 
 I'm a former web designer learning to become a full-stack developer.
 
-I'm currently working on my first [getcoding](https://www.getcoding.ca/) project, a [web-based game](https://github.com/stevengranter/wieners-maple-syrup).
+I'm currently working on my first [getcoding](https://www.getcoding.ca/) project, a [web-based game](https://github.com/stevengranter/wieners-redux-game).
 
 You can reach me at [stevengranter@gmail.com](mailto:stevengranter@gmail.com)
 
